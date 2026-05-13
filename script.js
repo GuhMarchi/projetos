@@ -38,3 +38,5 @@ function teclaCima() {
   logEvento("Tecla liberada");
 }
 
+
+
