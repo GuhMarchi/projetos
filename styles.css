@@ -1,0 +1,60 @@
+body {
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #090b72;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+header {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    display: block;
+    margin: 20px auto;
+}
+
+h1 {
+    color: #e4d9d9;
+}
+.instagram{
+    background-color: #ce105f;
+    border-radius: 5px;
+    width: 80px;
+    margin: 20px;
+}
+
+.whatsapp {
+    background-color: #11da18;
+    border-radius: 5px;
+    width: 80px;
+    margin: 20px;
+}
